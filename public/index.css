@@ -1,0 +1,38 @@
+.first-section {
+  margin-bottom: 40px;
+}
+
+.heading {
+  text-align: center;
+  text-decoration: underline;
+}
+.joining_field {
+  display: flex;
+  justify-content: center;
+}
+
+.second-part {
+  margin: 0 10%;
+}
+.Chatting_header {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.chatting-section {
+  background-color: gray;
+}
+.message-box {
+  padding: 20px;
+}
+.message {
+  background-color: white;
+  border-radius: 30px;
+  padding: 5px;
+}
+.sender {
+  display: flex;
+  justify-content: right;
+}
